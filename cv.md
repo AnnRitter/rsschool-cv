@@ -16,7 +16,7 @@ Telegram: @an_telnova
 
 Discord: Anastasia (@AnnRitter)
 
-VK: [Anastasia Ritter](vk.com/ritter_an)
+VK: [Anastasia Ritter](https://vk.com/ritter_an)
 
 
 ## About me 
