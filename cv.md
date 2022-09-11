@@ -1,6 +1,8 @@
 
 # Anastasia Telnova
 
+![photo](/photo.jpg)
+
 Junior Frontend Developer
 
 
@@ -33,7 +35,28 @@ Among my main personal traits, I can mention: determination, perseverance, open-
 
 ## Code example
 
-Example of code is going to be here...
+**Codewars**: Kata Training
+
+**Task**: *Return the number (count) of vowels in the given string.* 
+*We will consider a, e, i, o, u as vowels for this Kata (but not y).*
+*The input string will only consist of lower case letters and/or spaces.*
+
+**Solution**: 
+
+```
+function getCount(str) {
+  const stringArray = Array.from(str.toLowerCase()) 
+  let numberOfVowels = 0
+  const vowels = ['a', 'e', 'i', 'o', 'u']
+
+  stringArray.forEach(letter => {
+    if (vowels.includes(letter)) numberOfVowels++
+  })
+
+  return numberOfVowels;
+}
+
+```
 
 
 ## Courses 
